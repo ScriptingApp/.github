@@ -2,7 +2,7 @@
 
 > Build powerful iOS automations, native experiences, and personal tools with JavaScript and TypeScript.
 
-[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/apple-store/id6479691128)
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/us/app/scripting/id6479691128)
 [![Documentation](https://img.shields.io/badge/Docs-scriptingapp.github.io-24292f?logo=readthedocs&logoColor=white)](https://scriptingapp.github.io)
 
 **Scripting App** is a JavaScript and TypeScript development environment for iPhone and iPad. Create scripts that use native iOS capabilities, automate everyday tasks, and deliver rich interfaces directly on your device.
@@ -20,7 +20,7 @@
 
 ## 📲 Get Scripting App
 
-Download Scripting App from the **[App Store](https://apps.apple.com/app/apple-store/id6479691128)**, then visit the **[documentation](https://scriptingapp.github.io)** to get started.
+Download Scripting App from the **[App Store](https://apps.apple.com/us/app/scripting/id6479691128)**, then visit the **[documentation](https://scriptingapp.github.io)** to get started.
 
 ## 📚 Open-Source Resources
 
@@ -33,7 +33,7 @@ Download Scripting App from the **[App Store](https://apps.apple.com/app/apple-s
 
 ## 🚀 Getting Started
 
-1. Download **[Scripting App](https://apps.apple.com/app/apple-store/id6479691128)** from the App Store.
+1. Download **[Scripting App](https://apps.apple.com/us/app/scripting/id6479691128)** from the App Store.
 2. Follow the **[Quick Start guide](https://scriptingapp.github.io/guide/Quick%20Start)**.
 3. Browse **[Community Scripts](https://github.com/ScriptingApp/Community-Scripts)** for ready-to-use examples.
 4. Explore **[skills](https://github.com/ScriptingApp/skills)** to add reusable capabilities to your workflows.
@@ -51,7 +51,7 @@ Please review the documentation and contribution guidance in the relevant reposi
 
 ## 🔗 Links
 
-- **App Store:** [Download Scripting App](https://apps.apple.com/app/apple-store/id6479691128)
+- **App Store:** [Download Scripting App](https://apps.apple.com/us/app/scripting/id6479691128)
 - **Documentation:** [scriptingapp.github.io](https://scriptingapp.github.io)
 - **GitHub:** [@ScriptingApp](https://github.com/ScriptingApp)
 
