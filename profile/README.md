@@ -1,41 +1,41 @@
 # Scripting App
 
-> Scripting App 相关开源资源的分享与协作社区。
+> Open-source resources, projects, and community collaboration for Scripting App.
 
-Scripting App 是一款运行在 iPhone 与 iPad 上的脚本开发工具。这里汇集与 Scripting App 生态相关的开源项目、脚本、技能、文档和开发资源，欢迎开发者与爱好者共同使用、交流和贡献。
+Scripting App is a scripting development environment for iPhone and iPad. This organization brings together open-source projects, scripts, skills, documentation, and developer resources for the Scripting App ecosystem.
 
-## 📚 开源资源
+## 📚 Open-Source Resources
 
-| 项目 | 说明 |
+| Project | Description |
 | --- | --- |
-| [Community Scripts](https://github.com/ScriptingApp/Community-Scripts) | 社区脚本分享与示例集合。 |
-| [skills](https://github.com/ScriptingApp/skills) | 可在 Scripting App 中运行的可复用 Skills。 |
-| [ScriptingApp.github.io](https://github.com/ScriptingApp/ScriptingApp.github.io) | Scripting App 官方文档站点与开发者文档。 |
-| [Package Manager](https://github.com/ScriptingApp/Package-Manager) | 用于安装 npm 包并下载打包 JavaScript 文件的包管理工具。 |
-| [scripts](https://github.com/ScriptingApp/scripts) | Scripting App 脚本资源仓库。 |
+| [Community Scripts](https://github.com/ScriptingApp/Community-Scripts) | Community-contributed scripts and examples for Scripting App. |
+| [skills](https://github.com/ScriptingApp/skills) | Reusable skills that run in Scripting App. |
+| [ScriptingApp.github.io](https://github.com/ScriptingApp/ScriptingApp.github.io) | Official documentation website and developer documentation for Scripting App. |
+| [Package Manager](https://github.com/ScriptingApp/Package-Manager) | A package manager for installing npm packages and downloading bundled JavaScript files. |
+| [scripts](https://github.com/ScriptingApp/scripts) | A repository for Scripting App script resources. |
 
-## 🚀 快速开始
+## 🚀 Getting Started
 
-- 阅读 [开发者文档](https://scriptingapp.github.io)，了解 API、开发指南与示例。
-- 浏览 [Community Scripts](https://github.com/ScriptingApp/Community-Scripts)，发现和使用社区脚本。
-- 探索 [Skills](https://github.com/ScriptingApp/skills)，为 Scripting App 扩展更多能力。
+- Read the [documentation](https://scriptingapp.github.io) for APIs, guides, and examples.
+- Browse [Community Scripts](https://github.com/ScriptingApp/Community-Scripts) to discover and use scripts shared by the community.
+- Explore [skills](https://github.com/ScriptingApp/skills) to extend what you can do with Scripting App.
 
-## 🤝 参与贡献
+## 🤝 Contributing
 
-我们欢迎各种形式的贡献：
+Contributions are welcome:
 
-- 分享实用的脚本、组件与自动化方案；
-- 补充文档、示例和使用说明；
-- 提交 Issue 报告问题或提出功能建议；
-- 通过 Pull Request 改进现有项目。
+- Share useful scripts, components, and automation workflows.
+- Improve documentation, examples, and guides.
+- Open an Issue to report a bug or propose an improvement.
+- Submit a Pull Request to improve an existing project.
 
-贡献前请先阅读目标仓库中的说明与贡献规范；若不确定应提交到哪里，欢迎先在对应仓库发起 Issue 讨论。
+Please check the documentation and contribution guidelines in the relevant repository before contributing. If you are unsure where something belongs, start a discussion in an Issue first.
 
-## 🔗 相关链接
+## 🔗 Links
 
-- 文档网站：[scriptingapp.github.io](https://scriptingapp.github.io)
-- GitHub 组织：[@ScriptingApp](https://github.com/ScriptingApp)
+- Documentation: [scriptingapp.github.io](https://scriptingapp.github.io)
+- GitHub organization: [@ScriptingApp](https://github.com/ScriptingApp)
 
 ---
 
-一起让 Scripting App 生态更丰富。
+Let’s build a richer Scripting App ecosystem together.
