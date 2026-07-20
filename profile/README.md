@@ -15,7 +15,8 @@
 - **Shortcuts & App Intents** — Expose scripts to the Shortcuts app, Share Sheet, and interactive widget controls.
 - **Safari extensions** — Create browser userscripts and extend Safari with custom functionality.
 - **AI-powered workflows** — Connect to MCP servers and build agent-assisted workflows.
-- **Reusable packages** — Use npm packages, share components, and package reusable skills.
+- **Built-in npm support** — Install and use npm packages directly in Scripting App projects.
+- **Reusable packages** — Share components, scripts, and reusable skills with the community.
 
 ## 📲 Get Scripting App
 
@@ -28,7 +29,6 @@ Download Scripting App from the **[App Store](https://apps.apple.com/app/apple-s
 | [Community Scripts](https://github.com/ScriptingApp/Community-Scripts) | Community-contributed scripts, utilities, and examples. |
 | [skills](https://github.com/ScriptingApp/skills) | Reusable skills for automation, integrations, and native iOS features. |
 | [ScriptingApp.github.io](https://github.com/ScriptingApp/ScriptingApp.github.io) | Official documentation website, API references, and developer guides. |
-| [Package Manager](https://github.com/ScriptingApp/Package-Manager) | Package management for npm packages and bundled JavaScript files. |
 | [scripts](https://github.com/ScriptingApp/scripts) | A shared repository for Scripting App script resources. |
 
 ## 🚀 Getting Started
